@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a width or layout problem.
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: BB and Chat Width versions
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Browser or desktop client
+      description: Include whether you use a split, side panel or compact screen.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps, expected result and actual result
+      description: Do not include private conversation text, credentials or a conversation export.
+    validations:
+      required: true
