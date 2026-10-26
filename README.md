@@ -17,7 +17,9 @@ Open the width icon in the conversation header. Choose a mode, then use the slid
 
 A narrower pane temporarily limits the visible width; your saved maximum stays intact. On compact screens, the controls open in a bottom drawer.
 
-[See the full-width view](docs/screenshots/fill.jpg).
+### Fill the pane
+
+![Full-width conversation and aligned input in Fill mode](docs/screenshots/fill.jpg)
 
 ## Install
 
